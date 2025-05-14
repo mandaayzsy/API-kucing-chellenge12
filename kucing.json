@@ -1,0 +1,12 @@
+[
+    {"nama": "Kucing Anggora", "namaLatin": "Felis catus", "imageId": "kucing_anggora"},
+    {"nama": "Kucing Persia", "namaLatin": "Felis catus", "imageId": "kucing_persia"},
+    {"nama": "Kucing Siam", "namaLatin": "Felis catus", "imageId": "kucing_siam"},
+    {"nama": "Kucing Maine Coon", "namaLatin": "Felis catus", "imageId": "kucing_maine_coon"},
+    {"nama": "Kucing Ragdoll", "namaLatin": "Felis catus", "imageId": "kucing_ragdoll"},
+    {"nama": "Kucing British Shorthair", "namaLatin": "Felis catus", "imageId": "kucing_british_shorthair"},
+    {"nama": "Kucing Sphynx", "namaLatin": "Felis catus", "imageId": "kucing_sphynx"},
+    {"nama": "Kucing Bengal", "namaLatin": "Felis catus", "imageId": "kucing_bengal"},
+    {"nama": "Kucing Scottish Fold", "namaLatin": "Felis catus", "imageId": "kucing_scottish_fold"},
+    {"nama": "Kucing Himalaya", "namaLatin": "Felis catus", "imageId": "kucing_himalaya"}
+]
